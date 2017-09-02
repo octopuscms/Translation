@@ -17,6 +17,9 @@
         "php": ">=7.0.0",
         "composer/installers": "~1.0"
     },
+    "extra": {
+        "installer-name": "Translation"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
