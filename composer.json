@@ -1,0 +1,20 @@
+{
+    "name": "octopuscms/translation",
+    "description": "",
+    "type": "octopuscms-module",
+    "authors": [
+        {
+            "name": "Mohamed Hamdallah",
+            "email": "moh8med@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Translation\\": ""
+        }
+    },
+    "require": {
+        "php": ">=7.0.0",
+        "composer/installers": "~1.0"
+    },
+}
